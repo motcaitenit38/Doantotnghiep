@@ -22,3 +22,8 @@ Route::get('ketqua', function () {
 Route::get('chitiet', function () {
     return view('timviec.chitietviec');
 });
+
+Route::get('chitiet', function () {
+    return view('timviec.chitietviec');
+});
+
